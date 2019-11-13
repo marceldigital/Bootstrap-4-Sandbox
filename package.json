@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "name": "md-b4-sandbox",
+    "private": true,
+    "devDependencies": {
+      "gulp": "^4.0.0",
+      "gulp-sass": "3.1.0",
+      "gulp-concat": "2.6.1",
+      "gulp-cssmin": "0.2.0",
+      "gulp-uglify": "3.0.2",
+      "rimraf": "2.6.3"
+    },
+    "dependencies": {
+      "jquery": "3.3.1",
+      "popper.js": "1.14.7",
+      "bootstrap": "4.3.1"
+    }
+  }
